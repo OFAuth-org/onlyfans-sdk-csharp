@@ -1,0 +1,11 @@
+/Users/seb/projects/stealth/ofauth-sdk-gen/packages/csharp/OFAuth/bin/Debug/net10.0/OFAuth.deps.json
+/Users/seb/projects/stealth/ofauth-sdk-gen/packages/csharp/OFAuth/bin/Debug/net10.0/OFAuth.dll
+/Users/seb/projects/stealth/ofauth-sdk-gen/packages/csharp/OFAuth/bin/Debug/net10.0/OFAuth.pdb
+/Users/seb/projects/stealth/ofauth-sdk-gen/packages/csharp/OFAuth/obj/Debug/net10.0/OFAuth.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seb/projects/stealth/ofauth-sdk-gen/packages/csharp/OFAuth/obj/Debug/net10.0/OFAuth.AssemblyInfoInputs.cache
+/Users/seb/projects/stealth/ofauth-sdk-gen/packages/csharp/OFAuth/obj/Debug/net10.0/OFAuth.AssemblyInfo.cs
+/Users/seb/projects/stealth/ofauth-sdk-gen/packages/csharp/OFAuth/obj/Debug/net10.0/OFAuth.csproj.CoreCompileInputs.cache
+/Users/seb/projects/stealth/ofauth-sdk-gen/packages/csharp/OFAuth/obj/Debug/net10.0/OFAuth.dll
+/Users/seb/projects/stealth/ofauth-sdk-gen/packages/csharp/OFAuth/obj/Debug/net10.0/refint/OFAuth.dll
+/Users/seb/projects/stealth/ofauth-sdk-gen/packages/csharp/OFAuth/obj/Debug/net10.0/OFAuth.pdb
+/Users/seb/projects/stealth/ofauth-sdk-gen/packages/csharp/OFAuth/obj/Debug/net10.0/ref/OFAuth.dll

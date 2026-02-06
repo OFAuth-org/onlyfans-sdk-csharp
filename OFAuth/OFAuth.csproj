@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>OnlyFans.SDK</PackageId>
-    <Version>2.2.2</Version>
+    <Version>2.2.3</Version>
     <Authors>OFAuth</Authors>
     <Description>OFAuth C# SDK v2 - Type-safe API client with generated models</Description>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>

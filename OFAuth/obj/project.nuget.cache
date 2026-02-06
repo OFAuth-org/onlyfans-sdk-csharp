@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "x0yP/tZGNVc=",
+  "success": true,
+  "projectFilePath": "/Users/seb/projects/stealth/ofauth-sdk-gen/packages/csharp/OFAuth/OFAuth.csproj",
+  "expectedPackageFiles": [
+    "/Users/seb/.nuget/packages/microsoft.netcore.app.ref/8.0.23/microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
+    "/Users/seb/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.23/microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
