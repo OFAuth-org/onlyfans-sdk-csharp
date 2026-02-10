@@ -8,6 +8,8 @@
     <Version>2.2.3</Version>
     <Authors>OFAuth</Authors>
     <Description>OFAuth C# SDK v2 - Type-safe API client with generated models</Description>
+    <PackageTags>ofauth;onlyfans;onlyfans-sdk;sdk;api;access</PackageTags>
+    <RepositoryUrl>https://github.com/OFAuth-org/onlyfans-sdk-csharp</RepositoryUrl>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
   </PropertyGroup>
 
