@@ -195,12 +195,12 @@ namespace OFAuth.Examples
                 Fail("ListChats", ex);
             }
 
-            // List Mass Messages
+            // List Sent Mass Messages
             try
             {
                 var query = new Dictionary<string, string?> { { "limit", "10" } };
-                var data = await client.GetAsync<Dictionary<string, object>>("/v2/access/mass-messages", query);
-                Success("ListMassMessages");
+                var data = await client.GetAsync<Dictionary<string, object>>("/v2/access/analytics/mass-messages/sent", query);
+                Success("ListSentMassMessages");
             }
             catch (Exception ex)
             {
